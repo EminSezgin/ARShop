@@ -119,8 +119,8 @@ MonoBehaviour:
     y: 0
     width: 561
     height: 987
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -418,20 +418,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/GoogleARCore/Examples/AugmentedImage/Prefabs
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/GoogleARCore/Examples/AugmentedImage/Prefabs
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\-Pc-\ARShop
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 175}
+    scrollPos: {x: 0, y: 95}
     m_SelectedIDs: 9e380000
     m_LastClickedID: 14494
-    m_ExpandedIDs: 00000000803800008238000084380000863800009a3800009c38000000ca9a3b
+    m_ExpandedIDs: 000000009e380000a0380000a2380000a4380000b838000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -459,7 +459,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000080380000823800008438000086380000
+    m_ExpandedIDs: 000000009e380000a0380000a2380000a4380000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -582,9 +582,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 9e380000
+      m_SelectedIDs: 1a390000
       m_LastClickedID: 0
-      m_ExpandedIDs: e6bfffff9452000096520000985200009a5200009e520000e0520000
+      m_ExpandedIDs: 6afbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -637,14 +637,14 @@ MonoBehaviour:
   m_ShowContextualTools: 0
   m_WindowGUID: 00ccd6914bc4ddb42aa8a3ade06c6beb
   m_Gizmos: 1
-  m_SceneIsLit: 0
+  m_SceneIsLit: 1
   m_SceneLighting: 1
   m_2DMode: 0
   m_isRotationLocked: 0
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0, y: 0, z: 0}
+    m_Target: {x: 618.5, y: 335, z: 0}
     speed: 2
     m_Value: {x: 0, y: 0, z: 0}
   m_RenderMode: 0
@@ -659,7 +659,7 @@ MonoBehaviour:
   m_SceneViewState:
     showFog: 1
     showMaterialUpdate: 0
-    showSkybox: 0
+    showSkybox: 1
     showFlares: 1
     showImageEffects: 1
     showParticleSystems: 1
@@ -692,17 +692,17 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.7311062, y: -0.0014575981, z: 0.0015046902, w: -0.682325}
+    m_Target: {x: -0.00000786597, y: 1.0000087, z: -0.002999653, w: -0.00060209027}
     speed: 2
-    m_Value: {x: -0.731074, y: -0.0014575338, z: 0.0015046238, w: -0.6822949}
+    m_Value: {x: -0.7311062, y: -0.0014575981, z: 0.0015046903, w: -0.682325}
   m_Size:
-    m_Target: 0.10570241
+    m_Target: 682.0546
     speed: 2
     m_Value: 0.10570241
   m_Ortho:
-    m_Target: 1
+    m_Target: 0
     speed: 2
-    m_Value: 1
+    m_Value: 0
   m_CameraSettings:
     m_Speed: 1
     m_SpeedNormalized: 0.5
@@ -774,8 +774,8 @@ MonoBehaviour:
     vZoomLockedByDefault: 0
     m_HBaseRangeMin: -618.5
     m_HBaseRangeMax: 618.5
-    m_VBaseRangeMin: -335
-    m_VBaseRangeMax: 335
+    m_VBaseRangeMin: -345.5
+    m_VBaseRangeMax: 345.5
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -792,11 +792,11 @@ MonoBehaviour:
     m_DrawArea:
       serializedVersion: 2
       x: 0
-      y: 21
+      y: 0
       width: 1237
-      height: 670
+      height: 691
     m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 618.5, y: 335}
+    m_Translation: {x: 618.5, y: 345.5}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -804,9 +804,9 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
       x: -618.5
-      y: -335
+      y: -345.5
       width: 1237
-      height: 670
+      height: 691
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 1237, y: 691}
