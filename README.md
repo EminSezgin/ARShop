@@ -1,6 +1,6 @@
 #Video
-![Watch The Video]
-(https://drive.google.com/file/d/1bs5TBnjJjjRYURmseEsd5JC0wI4lEYag/view?usp=sharing)
+
+https://drive.google.com/file/d/1bs5TBnjJjjRYURmseEsd5JC0wI4lEYag/view?usp=sharing
 
 # ARShop-App
 AR Shop Application with Google ARCore and Unity
